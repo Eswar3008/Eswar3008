@@ -7,7 +7,11 @@
 
 - 🎓 I’m an Undergrad at **NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA**
 
+- 💻 I’m a designer **at SDG CC NITRKL Design team**
+
 - 🌱 I’m currently learning **UX/UI DESIGNER**
+
+- 🤝 I’m Inducted member at **Sustainable Development Goals SDG CAMPUS CLUB NIT ROURKELA**
 
 - 👨‍💻 All of my projects are available at [https://eswar3008.github.io/Eswarala3008.github.io/](https://eswar3008.github.io/Eswarala3008.github.io/)
 
@@ -31,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eswar3008&show_icons=true&locale=en" alt="eswar3008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eswar3008&" alt="eswar3008" /></p>
-
