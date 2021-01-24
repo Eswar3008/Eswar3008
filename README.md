@@ -9,7 +9,7 @@
 
 - 💻 I’m a designer **at SDG CC NITRKL Design team**
 
-- 🌱 I’m currently learning **UX/UI DESIGNER**
+- 🌱 I’m currently learning **UX/UI DESIGNING**
 
 - 🤝 I’m Inducted member at **Sustainable Development Goals SDG CAMPUS CLUB NIT ROURKELA**
 
