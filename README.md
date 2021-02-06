@@ -1,3 +1,4 @@
+![eswarala](https://user-images.githubusercontent.com/76482527/107123707-0401b980-68c5-11eb-94c0-9ac1a9aeb3c2.png)
 <h1 align="center">Hi 👋, I'm Eswar.Ala</h1>
 <h3 align="center">INDUSTRIAL DESIGN ENGINEERING JUNIOR UX/UI DESIGNER</h3>
 
