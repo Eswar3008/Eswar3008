@@ -4,6 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswar3008" alt="eswar3008" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/eswar_ala" target="blank"><img src="https://img.shields.io/twitter/follow/eswar_ala?logo=twitter&style=for-the-badge" alt="eswar_ala" /></a> </p>
+<"https://user-images.githubusercontent.com/76482527/107125787-d1aa8900-68d1-11eb-82fa-4aee1ef7779d.mp4" width="100"> 
+
 
 - 🎓 I’m an Undergrad at **NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA**
 
