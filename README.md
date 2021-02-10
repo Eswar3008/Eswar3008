@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/eswar ala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eswar ala" height="30" width="40" /></a>
+<a href="https://dev.to/eswar3008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eswar ala" height="30" width="40" /></a>
 <a href="https://twitter.com/eswar_ala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eswar_ala" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eswarala3008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eswarala3008" height="30" width="40" /></a>
 <a href="https://fb.com/eswar.ala3008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="eswar.ala3008" height="30" width="40" /></a>
