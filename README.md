@@ -7,6 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/76482527/108341057-48635280-71ff-11eb-9f87-43bbcadc65d8.gif" width="400" /></a> </p> 
 
+
 - 🎓 I’m an Undergrad at **NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA**
 
 - 💻 I’m a designer **at SDG CC NITRKL Design team**
