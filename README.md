@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/eswar_ala" target="blank"><img src="https://img.shields.io/twitter/follow/eswar_ala?logo=twitter&style=for-the-badge" alt="eswar_ala" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/76482527/108341057-48635280-71ff-11eb-9f87-43bbcadc65d8.gif" width="400" /></a> </p> 
+<img src="https://user-images.githubusercontent.com/76482527/108341057-48635280-71ff-11eb-9f87-43bbcadc65d8.gif" width="400" /></a> </p>
+
 
 
 - 🎓 I’m an Undergrad at **NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA**
