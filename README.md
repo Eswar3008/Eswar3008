@@ -17,7 +17,9 @@
 
 - 🤝 I’m Inducted member at **Sustainable Development Goals SDG CAMPUS CLUB NIT ROURKELA**
 
-- 👨‍💻 All of my projects are available at [https://eswar3008.github.io/Eswarala3008.github.io/](https://eswar3008.github.io/Eswarala3008.github.io/)
+- 💻 All of my projects are available at [https://eswar3008.github.io/Eswarala3008.github.io/](https://eswar3008.github.io/Eswarala3008.github.io/)
+
+- 👨‍💻 All of my designs are available at [https://eswar3008.github.io/portfolio/](https://eswar3008.github.io/portfolio/)
 
 - 📫 How to reach me **alaeswar3@gmail.com**
 
