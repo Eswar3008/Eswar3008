@@ -11,7 +11,7 @@
 
 - 🎓 I’m an Undergrad at **NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA**
 
-- 💻 I’m a designer **at SDG CC NITRKL Design team**
+- 💻 I’m a designer nd developer **at SDG CC NITRKL Design team**
 
 - 🌱 I’m currently learning **UX/UI DESIGNING**
 
