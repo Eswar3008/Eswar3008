@@ -1,4 +1,4 @@
-<h1 align="center">Hi wotcha 👋, I'm Eswar.Ala</h1>
+<h1 align="center">Hi wotcha 👋, I'm Eswar Ala</h1>
 <h3 align="center">INDUSTRIAL DESIGN ENGINEERING JUNIOR UX/UI DESIGNER</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswar3008" alt="eswar3008" /></a> </p>
