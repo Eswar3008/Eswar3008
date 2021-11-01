@@ -11,13 +11,17 @@
 
 - 🎓 I’m an Undergrad at **NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA**
 
-- 💻 I’m a designer nd developer **at SDG CC NITRKL Design team**
+- 💻 I’m a designer nd developer **at [SDG CAMPUS CLUB] , [3D_CLUB] NIT ROURKELA**
 
 - 🌱 I’m currently learning **UX/UI DESIGNING**
 
-- 🤝 I’m Inducted member at **Sustainable Development Goals SDG CAMPUS CLUB NIT ROURKELA**
+- 🤝 I’m coordinator at **[Sustainable Development Goals],[SDG CAMPUS CLUB], NIT ROURKELA**
 
-- 💻 All of my projects are available at [https://eswar3008.github.io/Eswarala3008.github.io/](https://eswar3008.github.io/Eswarala3008.github.io/)
+- 🤝 I’m Inducted member at **[Sustainable Development Goals],[SDG CAMPUS CLUB],[3D_CLUB] NIT ROURKELA**
+
+- 💻 my Intro available at [https://eswar3008.github.io/Eswarala3008.github.io/](https://eswar3008.github.io/Eswarala3008.github.io/)
+
+- 💻 my projects are available at [https://github.com/Eswar3008?tab=projects](https://github.com/Eswar3008?tab=projects)
 
 - 👨‍💻 All of my designs are available at [https://eswar3008.github.io/portfolio/](https://eswar3008.github.io/portfolio/)
 
