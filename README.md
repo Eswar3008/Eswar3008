@@ -11,7 +11,7 @@
 
 - 🎓 I’m an Undergrad at **NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA**
 
-- 💻 I’m a designer nd developer **at [SDG CAMPUS CLUB] , [3D_CLUB] NIT ROURKELA**
+
 
 - 🌱 I’m currently learning **UX/UI DESIGNING**
 
