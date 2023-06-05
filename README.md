@@ -13,11 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **UX/UI DESIGNING**
-
-- 🤝 I’m coordinator at **[Sustainable Development Goals],[SDG CAMPUS CLUB], NIT ROURKELA**
-
-- 🤝 I’m Inducted member at **[Sustainable Development Goals],[SDG CAMPUS CLUB],[3D_CLUB] NIT ROURKELA**
+- 🌱Dedicated and detail-oriented **Product Designer ardent about UI/UX Design & Research**
 
 - 💻 my Intro available at [https://eswar3008.github.io/Eswarala3008.github.io/](https://eswar3008.github.io/Eswarala3008.github.io/)
 
